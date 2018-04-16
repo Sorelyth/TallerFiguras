@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TallerFiguras</string>
+    <string name="opciones">OPCIONES</string>
+    <string name="areas">Areas</string>
+    <string name="volumenes">VOLÚMENES</string>
+    <string name="numero">No.</string>
+    <string name="operacion">Operación</string>
+    <string name="datos">Datos</string>
+    <string name="resultado">Resultado</string>
+    <string name="cuadrado">CUADRADO</string>
+    <string name="valorlado">Valor del Lado</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+</resources>
