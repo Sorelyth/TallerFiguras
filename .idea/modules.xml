@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TallerFiguras.iml" filepath="$PROJECT_DIR$/TallerFiguras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taller.iml" filepath="$PROJECT_DIR$/Taller.iml" />
+      <module fileurl="file://C:\Users\LabRedes\Downloads\Taller\TallerFiguras.iml" filepath="C:\Users\LabRedes\Downloads\Taller\TallerFiguras.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

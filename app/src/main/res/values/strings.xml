@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">TallerFiguras</string>
     <string name="opciones">OPCIONES</string>
-    <string name="areas">Areas</string>
+    <string name="areas">AREAS</string>
     <string name="volumenes">VOLÚMENES</string>
     <string name="numero">No.</string>
     <string name="operacion">Operación</string>
@@ -11,4 +11,38 @@
     <string name="valorlado">Valor del Lado</string>
     <string name="calcular">Calcular</string>
     <string name="borrar">Borrar</string>
+    <string name="valorbase">Valor de la Base</string>
+    <string name="valoraltura">Valor de la Altura</string>
+    <string name="rectangulo">RECTÀNGULO</string>
+    <string name="triangulo">TRIÀNGULO</string>
+    <string name="circulo">CIRCULO</string>
+    <string name="valor_radio">Valor del Radio</string>
+    <string name="esfera">ESFERA</string>
+    <string name="cilindro">CILINDRO</string>
+    <string name="cono">CONO</string>
+    <string name="cubo">CUBO</string>
+    <string name="valor_longitud">Valor de la Longitud</string>
+    <string name="operaciones_realizadas">OPERACIONES REALIZADAS</string>
+
+
+    <string-array name="lstMain">
+        <item>@string/areas</item>
+        <item>@string/volumenes</item>
+        <item>@string/operaciones_realizadas</item>
+    </string-array>
+
+    <string-array name="lstArea">
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+        <item>@string/triangulo</item>
+        <item>@string/circulo</item>
+    </string-array>
+
+    <string-array name="lstVolumen">
+        <item>@string/esfera</item>
+        <item>@string/cilindro</item>
+        <item>@string/cono</item>
+        <item>@string/cubo</item>
+    </string-array>
+
 </resources>

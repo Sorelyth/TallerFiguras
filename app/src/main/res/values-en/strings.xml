@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TallerFiguras</string>
+    <string name="opciones">OPTIONS</string>
+    <string name="areas">AREAS</string>
+    <string name="volumenes">VOLUMES</string>
+    <string name="numero">No.</string>
+    <string name="operacion">Operation</string>
+    <string name="datos">Info</string>
+    <string name="resultado">Result</string>
+    <string name="cuadrado">SQUARE</string>
+    <string name="valorlado">Side Value</string>
+    <string name="calcular">Calculate</string>
+    <string name="borrar">Delete</string>
+    <string name="valorbase">Base Value</string>
+    <string name="valoraltura">Height Value</string>
+    <string name="rectangulo">RECTANGLE</string>
+    <string name="triangulo">TRIANGLE</string>
+    <string name="circulo">CIRCLE</string>
+    <string name="valor_radio">Radio Value</string>
+    <string name="esfera">SPHERE</string>
+    <string name="cilindro">CYLINDER</string>
+    <string name="cono">CONE</string>
+    <string name="cubo">CUBE</string>
+    <string name="valor_longitud">Length Value</string>
+    <string name="operaciones_realizadas">OPERATIONS PERFORMED</string>
+</resources>

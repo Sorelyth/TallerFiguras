@@ -8,6 +8,8 @@
 
     android:layout_width="382dp"
     android:layout_height="511dp"
+    android:shrinkColumns="*"
+    android:stretchColumns="*"
     tools:context="com.holamundo.tallerfiguras.OperacionesRealizadas"
     tools:layout_editor_absoluteX="0dp"
     tools:layout_editor_absoluteY="0dp">
@@ -21,6 +23,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/numero"
+            android:textAlignment="center"
             android:textSize="18sp"
             android:textStyle="bold" />
 
@@ -29,6 +32,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/operacion"
+            android:textAlignment="center"
             android:textSize="18sp"
             android:textStyle="bold" />
 
@@ -37,6 +41,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/datos"
+            android:textAlignment="center"
             android:textSize="18sp"
             android:textStyle="bold" />
 
@@ -45,6 +50,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/resultado"
+            android:textAlignment="center"
             android:textSize="18sp"
             android:textStyle="bold" />
     </TableRow>

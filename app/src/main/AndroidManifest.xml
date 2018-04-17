@@ -19,7 +19,14 @@
         <activity android:name=".Areas" />
         <activity android:name=".Volumenes" />
         <activity android:name=".OperacionesRealizadas" />
-        <activity android:name=".cuadrado"></activity>
+        <activity android:name=".cuadrado" />
+        <activity android:name=".rectangulo" />
+        <activity android:name=".triangulo" />
+        <activity android:name=".circulo" />
+        <activity android:name=".esfera" />
+        <activity android:name=".cilindro" />
+        <activity android:name=".cono" />
+        <activity android:name=".cubo"></activity>
     </application>
 
 </manifest>
