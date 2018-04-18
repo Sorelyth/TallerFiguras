@@ -6,8 +6,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/tabla"
 
-    android:layout_width="382dp"
-    android:layout_height="511dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
     android:shrinkColumns="*"
     android:stretchColumns="*"
     tools:context="com.holamundo.tallerfiguras.OperacionesRealizadas"
